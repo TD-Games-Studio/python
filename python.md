@@ -45,7 +45,7 @@ y = 2x
 donc y = 2 x 8 = 16
 ```
 
-Les variable ses des endroit ou on peut stocker du code pour les reutiliser.
+Les variable ses des endroit ou on peut stocker des nombres ou expression pour les reutiliser.
 
 Ici dans l'exemple c'est comment on le ferais en maths. En python sa serais sa :
 
