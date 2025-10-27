@@ -79,3 +79,26 @@ Pour calculer en maths on fais cela :
     > Par exemple:
     >> x = 10 ** 2
     >>> ici x vaut 100
+
+#### Print
+
+La a present si on executais notre code yavais rien qui s'afficher c'est normal car on dis juste a python de calculer mais il affichera rien tant que on lui dis pas.
+
+Ducoup on va utiliser la fonction print() 
+
+(ATTENTION: les fonction en python n'ont rien a voir avec les fonction f(x) en maths)
+
+Essaye de lancer se code :
+
+```
+x = 3
+y = x * 3 - 3
+
+print(y)
+```
+
+lance ce code en allant sur le terminal et met :
+
+`python script.py` OU `py script.py`
+
+et tu devrais voir : `6` s'afficher.
