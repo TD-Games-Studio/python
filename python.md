@@ -6,6 +6,8 @@
 
 Python c'est un langage de programmation qui sert a faire des script.
 
+(Ici on va voir python pour la spé math uniquement, plein de concept et d'idées vont etre mega vulgarisé mais c'est pour comprendre. Si tu veut apprendre plus python et voir du python simple ou avancée tu devras apprendre bcp plus de trucs que ce qui a la)
+
 Pour installer python sur son ordi va sur ses liens : 
 - https://www.python.org/downloads/ (Lien officiel de python, installe la dernière version et lors de l'installation clique bien sur ADD TO PATH (sinon rien marchera)).
 - https://code.visualstudio.com/download (Editeur de code simple, parfait pour Python, installe le)
