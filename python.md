@@ -103,4 +103,29 @@ lance ce code en allant sur le terminal et met :
 
 `python script.py` OU `py script.py`
 
-et tu devrais voir : `6` s'afficher.
+et tu devrais voir : `6` s'afficher
+
+# 2. Bibliothèque math
+
+Après avoir vu le .zip que j'ai envoyer en entier tu sais normalement ce que c'est des boucles (for, while), variable, function etc...
+
+On va voir la bibliothèque math.
+
+Qui s'importe comme ca: 
+
+```py
+import math
+```
+
+Elle donne plusieurs fonctions interresante comme : 
+
+- exp() : exponentielles
+- cos() , sin() : cosinus et sinus
+- PI et e (constante)
+- log() et log10() : logarithm (on verra en spé math ce que c'est)
+- ...
+
+chaque fonction s'importe comme detaille dans le .zip avec 
+
+`math.FONCTION()`
+
